@@ -10,6 +10,8 @@
 - CSS
 - Javascript 
 
+# Observações
+
 - Como pode vê esse projeto ele é compatível com desktop e Mobile 
 
 - A Rotação dos planetas é feita por animação no **CSS** 
