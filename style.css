@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 :root{
---primary: #F8FF00;
+--primary: blue;
 }
 body {
   background: black;
