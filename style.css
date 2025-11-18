@@ -4,6 +4,9 @@
   box-sizing: border-box;
   image-rendering: optimizeSpeed;
 }
+:root{
+--primary: yellow;
+}
 body {
   background: black;
   height: 100vh;
@@ -26,7 +29,7 @@ body {
   left: 50%;
   width: 80px;
   height: 80px;
-  background: yellow;
+  background: var(--primary);
   border-radius: 50%;
   transform: translate(-50%, -50%);
   box-shadow: 0 0 60px 20px yellow;
